@@ -1,4 +1,4 @@
-# 🧠 Multi-Agent Deep Deterministic Policy Gradient (MADDPG)
+# 🧠 Multi-Agent Deep Deterministic Policy Gradient (MADDPG) for Cooperative Multi-Agent Learning
 
 This repository contains a complete implementation of the MADDPG algorithm using PyTorch and PettingZoo. It includes training, evaluation, plotting, and trajectory logging for cooperative multi-agent environments.
 
