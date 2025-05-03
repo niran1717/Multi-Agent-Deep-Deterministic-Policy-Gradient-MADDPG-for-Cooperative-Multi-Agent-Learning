@@ -1,0 +1,653 @@
+
+--- Starting MADDPG Training ---
+
+Episode 0: Average Reward per Agent: -26.393
+Episode 100: Average Reward per Agent: -37.532
+Episode 200: Average Reward per Agent: -19.666
+Episode 300: Average Reward per Agent: -23.568
+Episode 400: Average Reward per Agent: -29.034
+Episode 500: Average Reward per Agent: -28.762
+Episode 600: Average Reward per Agent: -24.628
+Episode 700: Average Reward per Agent: -24.671
+Episode 800: Average Reward per Agent: -36.820
+Episode 900: Average Reward per Agent: -24.956
+Episode 1000: Average Reward per Agent: -19.798
+
+--- Models Saved at Episode 1000 ---
+
+Episode 1100: Average Reward per Agent: -37.808
+Episode 1200: Average Reward per Agent: -22.783
+Episode 1300: Average Reward per Agent: -25.844
+Episode 1400: Average Reward per Agent: -22.197
+Episode 1500: Average Reward per Agent: -31.616
+Episode 1600: Average Reward per Agent: -25.099
+Episode 1700: Average Reward per Agent: -16.271
+Episode 1800: Average Reward per Agent: -10.890
+Episode 1900: Average Reward per Agent: -19.741
+Episode 2000: Average Reward per Agent: -18.662
+
+--- Models Saved at Episode 2000 ---
+
+Episode 2100: Average Reward per Agent: -23.801
+Episode 2200: Average Reward per Agent: -40.469
+Episode 2300: Average Reward per Agent: -12.632
+Episode 2400: Average Reward per Agent: -27.924
+Episode 2500: Average Reward per Agent: -19.402
+Episode 2600: Average Reward per Agent: -25.542
+Episode 2700: Average Reward per Agent: -20.148
+Episode 2800: Average Reward per Agent: -20.434
+Episode 2900: Average Reward per Agent: -19.944
+Episode 3000: Average Reward per Agent: -49.838
+
+--- Models Saved at Episode 3000 ---
+
+Episode 3100: Average Reward per Agent: -17.867
+Episode 3200: Average Reward per Agent: -24.000
+Episode 3300: Average Reward per Agent: -21.784
+Episode 3400: Average Reward per Agent: -28.859
+Episode 3500: Average Reward per Agent: -18.280
+Episode 3600: Average Reward per Agent: -32.856
+Episode 3700: Average Reward per Agent: -19.640
+Episode 3800: Average Reward per Agent: -17.318
+Episode 3900: Average Reward per Agent: -22.740
+Episode 4000: Average Reward per Agent: -20.586
+
+--- Models Saved at Episode 4000 ---
+
+Episode 4100: Average Reward per Agent: -21.939
+Episode 4200: Average Reward per Agent: -21.766
+Episode 4300: Average Reward per Agent: -20.571
+Episode 4400: Average Reward per Agent: -18.590
+Episode 4500: Average Reward per Agent: -18.681
+Episode 4600: Average Reward per Agent: -9.987
+Episode 4700: Average Reward per Agent: -10.916
+Episode 4800: Average Reward per Agent: -22.695
+Episode 4900: Average Reward per Agent: -22.267
+Episode 5000: Average Reward per Agent: -13.410
+
+--- Models Saved at Episode 5000 ---
+
+Episode 5100: Average Reward per Agent: -22.087
+Episode 5200: Average Reward per Agent: -18.949
+Episode 5300: Average Reward per Agent: -21.210
+Episode 5400: Average Reward per Agent: -22.014
+Episode 5500: Average Reward per Agent: -19.780
+Episode 5600: Average Reward per Agent: -19.483
+Episode 5700: Average Reward per Agent: -22.367
+Episode 5800: Average Reward per Agent: -21.657
+Episode 5900: Average Reward per Agent: -35.970
+Episode 6000: Average Reward per Agent: -27.836
+
+--- Models Saved at Episode 6000 ---
+
+Episode 6100: Average Reward per Agent: -17.085
+Episode 6200: Average Reward per Agent: -23.599
+Episode 6300: Average Reward per Agent: -20.626
+Episode 6400: Average Reward per Agent: -19.661
+Episode 6500: Average Reward per Agent: -32.903
+Episode 6600: Average Reward per Agent: -19.865
+Episode 6700: Average Reward per Agent: -11.958
+Episode 6800: Average Reward per Agent: -22.335
+Episode 6900: Average Reward per Agent: -21.624
+Episode 7000: Average Reward per Agent: -19.774
+
+--- Models Saved at Episode 7000 ---
+
+Episode 7100: Average Reward per Agent: -22.162
+Episode 7200: Average Reward per Agent: -29.167
+Episode 7300: Average Reward per Agent: -17.528
+Episode 7400: Average Reward per Agent: -18.004
+Episode 7500: Average Reward per Agent: -17.090
+Episode 7600: Average Reward per Agent: -25.208
+Episode 7700: Average Reward per Agent: -19.368
+Episode 7800: Average Reward per Agent: -17.997
+Episode 7900: Average Reward per Agent: -12.700
+Episode 8000: Average Reward per Agent: -12.537
+
+--- Models Saved at Episode 8000 ---
+
+Episode 8100: Average Reward per Agent: -28.112
+Episode 8200: Average Reward per Agent: -19.287
+Episode 8300: Average Reward per Agent: -11.469
+Episode 8400: Average Reward per Agent: -30.620
+Episode 8500: Average Reward per Agent: -30.959
+Episode 8600: Average Reward per Agent: -25.286
+Episode 8700: Average Reward per Agent: -16.732
+Episode 8800: Average Reward per Agent: -20.998
+Episode 8900: Average Reward per Agent: -16.720
+Episode 9000: Average Reward per Agent: -15.237
+
+--- Models Saved at Episode 9000 ---
+
+Episode 9100: Average Reward per Agent: -18.536
+Episode 9200: Average Reward per Agent: -12.772
+Episode 9300: Average Reward per Agent: -11.562
+Episode 9400: Average Reward per Agent: -25.770
+Episode 9500: Average Reward per Agent: -13.262
+Episode 9600: Average Reward per Agent: -15.982
+Episode 9700: Average Reward per Agent: -22.754
+Episode 9800: Average Reward per Agent: -24.198
+Episode 9900: Average Reward per Agent: -21.667
+Episode 10000: Average Reward per Agent: -13.296
+
+--- Models Saved at Episode 10000 ---
+
+Episode 10100: Average Reward per Agent: -19.837
+Episode 10200: Average Reward per Agent: -17.336
+Episode 10300: Average Reward per Agent: -16.045
+Episode 10400: Average Reward per Agent: -18.312
+Episode 10500: Average Reward per Agent: -34.566
+Episode 10600: Average Reward per Agent: -20.602
+Episode 10700: Average Reward per Agent: -22.386
+Episode 10800: Average Reward per Agent: -19.616
+Episode 10900: Average Reward per Agent: -28.902
+Episode 11000: Average Reward per Agent: -11.324
+
+--- Models Saved at Episode 11000 ---
+
+Episode 11100: Average Reward per Agent: -16.062
+Episode 11200: Average Reward per Agent: -22.295
+Episode 11300: Average Reward per Agent: -26.691
+Episode 11400: Average Reward per Agent: -31.153
+Episode 11500: Average Reward per Agent: -17.858
+Episode 11600: Average Reward per Agent: -30.556
+Episode 11700: Average Reward per Agent: -23.743
+Episode 11800: Average Reward per Agent: -20.772
+Episode 11900: Average Reward per Agent: -31.016
+Episode 12000: Average Reward per Agent: -19.887
+
+--- Models Saved at Episode 12000 ---
+
+Episode 12100: Average Reward per Agent: -26.055
+Episode 12200: Average Reward per Agent: -26.299
+Episode 12300: Average Reward per Agent: -19.680
+Episode 12400: Average Reward per Agent: -22.232
+Episode 12500: Average Reward per Agent: -20.441
+Episode 12600: Average Reward per Agent: -14.231
+Episode 12700: Average Reward per Agent: -28.461
+Episode 12800: Average Reward per Agent: -8.528
+Episode 12900: Average Reward per Agent: -21.457
+Episode 13000: Average Reward per Agent: -21.338
+
+--- Models Saved at Episode 13000 ---
+
+Episode 13100: Average Reward per Agent: -24.200
+Episode 13200: Average Reward per Agent: -17.265
+Episode 13300: Average Reward per Agent: -26.997
+Episode 13400: Average Reward per Agent: -17.441
+Episode 13500: Average Reward per Agent: -13.492
+Episode 13600: Average Reward per Agent: -26.814
+Episode 13700: Average Reward per Agent: -15.064
+Episode 13800: Average Reward per Agent: -13.632
+Episode 13900: Average Reward per Agent: -19.216
+Episode 14000: Average Reward per Agent: -30.017
+
+--- Models Saved at Episode 14000 ---
+
+Episode 14100: Average Reward per Agent: -22.442
+Episode 14200: Average Reward per Agent: -17.191
+Episode 14300: Average Reward per Agent: -18.642
+Episode 14400: Average Reward per Agent: -18.510
+Episode 14500: Average Reward per Agent: -14.588
+Episode 14600: Average Reward per Agent: -25.419
+Episode 14700: Average Reward per Agent: -36.776
+Episode 14800: Average Reward per Agent: -23.855
+Episode 14900: Average Reward per Agent: -36.467
+Episode 15000: Average Reward per Agent: -53.396
+
+--- Models Saved at Episode 15000 ---
+
+Episode 15100: Average Reward per Agent: -13.028
+Episode 15200: Average Reward per Agent: -26.993
+Episode 15300: Average Reward per Agent: -47.656
+Episode 15400: Average Reward per Agent: -44.854
+Episode 15500: Average Reward per Agent: -15.027
+Episode 15600: Average Reward per Agent: -59.531
+Episode 15700: Average Reward per Agent: -57.164
+Episode 15800: Average Reward per Agent: -28.645
+Episode 15900: Average Reward per Agent: -40.957
+Episode 16000: Average Reward per Agent: -23.805
+
+--- Models Saved at Episode 16000 ---
+
+Episode 16100: Average Reward per Agent: -22.128
+Episode 16200: Average Reward per Agent: -24.988
+Episode 16300: Average Reward per Agent: -17.798
+Episode 16400: Average Reward per Agent: -22.644
+Episode 16500: Average Reward per Agent: -21.267
+Episode 16600: Average Reward per Agent: -19.406
+Episode 16700: Average Reward per Agent: -24.206
+Episode 16800: Average Reward per Agent: -16.997
+Episode 16900: Average Reward per Agent: -16.568
+Episode 17000: Average Reward per Agent: -19.384
+
+--- Models Saved at Episode 17000 ---
+
+Episode 17100: Average Reward per Agent: -17.069
+Episode 17200: Average Reward per Agent: -25.061
+Episode 17300: Average Reward per Agent: -18.355
+Episode 17400: Average Reward per Agent: -32.720
+Episode 17500: Average Reward per Agent: -24.440
+Episode 17600: Average Reward per Agent: -14.351
+Episode 17700: Average Reward per Agent: -59.336
+Episode 17800: Average Reward per Agent: -27.620
+Episode 17900: Average Reward per Agent: -28.063
+Episode 18000: Average Reward per Agent: -44.489
+
+--- Models Saved at Episode 18000 ---
+
+Episode 18100: Average Reward per Agent: -27.293
+Episode 18200: Average Reward per Agent: -32.941
+Episode 18300: Average Reward per Agent: -32.474
+Episode 18400: Average Reward per Agent: -27.589
+Episode 18500: Average Reward per Agent: -26.508
+Episode 18600: Average Reward per Agent: -27.742
+Episode 18700: Average Reward per Agent: -28.626
+Episode 18800: Average Reward per Agent: -23.038
+Episode 18900: Average Reward per Agent: -30.715
+Episode 19000: Average Reward per Agent: -19.050
+
+--- Models Saved at Episode 19000 ---
+
+Episode 19100: Average Reward per Agent: -20.847
+Episode 19200: Average Reward per Agent: -41.366
+Episode 19300: Average Reward per Agent: -18.738
+Episode 19400: Average Reward per Agent: -23.383
+Episode 19500: Average Reward per Agent: -25.845
+Episode 19600: Average Reward per Agent: -17.326
+Episode 19700: Average Reward per Agent: -19.252
+Episode 19800: Average Reward per Agent: -16.937
+Episode 19900: Average Reward per Agent: -24.322
+Episode 20000: Average Reward per Agent: -16.666
+
+--- Models Saved at Episode 20000 ---
+
+Episode 20100: Average Reward per Agent: -26.385
+Episode 20200: Average Reward per Agent: -26.892
+Episode 20300: Average Reward per Agent: -16.407
+Episode 20400: Average Reward per Agent: -21.070
+Episode 20500: Average Reward per Agent: -23.607
+Episode 20600: Average Reward per Agent: -13.689
+Episode 20700: Average Reward per Agent: -17.754
+Episode 20800: Average Reward per Agent: -27.592
+Episode 20900: Average Reward per Agent: -10.743
+Episode 21000: Average Reward per Agent: -15.118
+
+--- Models Saved at Episode 21000 ---
+
+Episode 21100: Average Reward per Agent: -17.722
+Episode 21200: Average Reward per Agent: -11.161
+Episode 21300: Average Reward per Agent: -19.557
+Episode 21400: Average Reward per Agent: -32.346
+Episode 21500: Average Reward per Agent: -9.790
+Episode 21600: Average Reward per Agent: -17.226
+Episode 21700: Average Reward per Agent: -23.799
+Episode 21800: Average Reward per Agent: -8.923
+Episode 21900: Average Reward per Agent: -22.108
+Episode 22000: Average Reward per Agent: -21.578
+
+--- Models Saved at Episode 22000 ---
+
+Episode 22100: Average Reward per Agent: -15.867
+Episode 22200: Average Reward per Agent: -33.444
+Episode 22300: Average Reward per Agent: -20.975
+Episode 22400: Average Reward per Agent: -20.070
+Episode 22500: Average Reward per Agent: -26.519
+Episode 22600: Average Reward per Agent: -24.938
+Episode 22700: Average Reward per Agent: -18.409
+Episode 22800: Average Reward per Agent: -17.239
+Episode 22900: Average Reward per Agent: -20.183
+Episode 23000: Average Reward per Agent: -17.406
+
+--- Models Saved at Episode 23000 ---
+
+Episode 23100: Average Reward per Agent: -19.387
+Episode 23200: Average Reward per Agent: -21.051
+Episode 23300: Average Reward per Agent: -24.289
+Episode 23400: Average Reward per Agent: -24.683
+Episode 23500: Average Reward per Agent: -14.734
+Episode 23600: Average Reward per Agent: -19.074
+Episode 23700: Average Reward per Agent: -16.088
+Episode 23800: Average Reward per Agent: -33.404
+Episode 23900: Average Reward per Agent: -21.581
+Episode 24000: Average Reward per Agent: -15.344
+
+--- Models Saved at Episode 24000 ---
+
+Episode 24100: Average Reward per Agent: -31.065
+Episode 24200: Average Reward per Agent: -12.356
+Episode 24300: Average Reward per Agent: -20.558
+Episode 24400: Average Reward per Agent: -14.357
+Episode 24500: Average Reward per Agent: -20.723
+Episode 24600: Average Reward per Agent: -27.119
+Episode 24700: Average Reward per Agent: -17.785
+Episode 24800: Average Reward per Agent: -16.297
+Episode 24900: Average Reward per Agent: -16.935
+Episode 25000: Average Reward per Agent: -16.902
+
+--- Models Saved at Episode 25000 ---
+
+Episode 25100: Average Reward per Agent: -33.410
+Episode 25200: Average Reward per Agent: -25.894
+Episode 25300: Average Reward per Agent: -21.680
+Episode 25400: Average Reward per Agent: -18.730
+Episode 25500: Average Reward per Agent: -26.481
+Episode 25600: Average Reward per Agent: -17.985
+Episode 25700: Average Reward per Agent: -24.797
+Episode 25800: Average Reward per Agent: -9.447
+Episode 25900: Average Reward per Agent: -18.389
+Episode 26000: Average Reward per Agent: -17.901
+
+--- Models Saved at Episode 26000 ---
+
+Episode 26100: Average Reward per Agent: -41.101
+Episode 26200: Average Reward per Agent: -26.167
+Episode 26300: Average Reward per Agent: -37.967
+Episode 26400: Average Reward per Agent: -85.253
+Episode 26500: Average Reward per Agent: -53.476
+Episode 26600: Average Reward per Agent: -26.327
+Episode 26700: Average Reward per Agent: -18.502
+Episode 26800: Average Reward per Agent: -25.161
+Episode 26900: Average Reward per Agent: -29.082
+Episode 27000: Average Reward per Agent: -29.630
+
+--- Models Saved at Episode 27000 ---
+
+Episode 27100: Average Reward per Agent: -22.931
+Episode 27200: Average Reward per Agent: -22.632
+Episode 27300: Average Reward per Agent: -28.692
+Episode 27400: Average Reward per Agent: -26.030
+Episode 27500: Average Reward per Agent: -24.211
+Episode 27600: Average Reward per Agent: -23.076
+Episode 27700: Average Reward per Agent: -20.825
+Episode 27800: Average Reward per Agent: -14.302
+Episode 27900: Average Reward per Agent: -21.845
+Episode 28000: Average Reward per Agent: -19.301
+
+--- Models Saved at Episode 28000 ---
+
+Episode 28100: Average Reward per Agent: -12.375
+Episode 28200: Average Reward per Agent: -47.723
+Episode 28300: Average Reward per Agent: -16.504
+Episode 28400: Average Reward per Agent: -23.091
+Episode 28500: Average Reward per Agent: -16.495
+Episode 28600: Average Reward per Agent: -24.299
+Episode 28700: Average Reward per Agent: -21.141
+Episode 28800: Average Reward per Agent: -25.957
+Episode 28900: Average Reward per Agent: -27.302
+Episode 29000: Average Reward per Agent: -28.760
+
+--- Models Saved at Episode 29000 ---
+
+Episode 29100: Average Reward per Agent: -35.749
+Episode 29200: Average Reward per Agent: -22.095
+Episode 29300: Average Reward per Agent: -27.692
+Episode 29400: Average Reward per Agent: -32.716
+Episode 29500: Average Reward per Agent: -28.063
+Episode 29600: Average Reward per Agent: -20.679
+Episode 29700: Average Reward per Agent: -18.502
+Episode 29800: Average Reward per Agent: -22.416
+Episode 29900: Average Reward per Agent: -23.171
+Episode 30000: Average Reward per Agent: -21.287
+
+--- Models Saved at Episode 30000 ---
+
+Episode 30100: Average Reward per Agent: -14.461
+Episode 30200: Average Reward per Agent: -19.048
+Episode 30300: Average Reward per Agent: -22.380
+Episode 30400: Average Reward per Agent: -26.770
+Episode 30500: Average Reward per Agent: -25.236
+Episode 30600: Average Reward per Agent: -14.247
+Episode 30700: Average Reward per Agent: -22.584
+Episode 30800: Average Reward per Agent: -20.264
+Episode 30900: Average Reward per Agent: -22.622
+Episode 31000: Average Reward per Agent: -15.027
+
+--- Models Saved at Episode 31000 ---
+
+Episode 31100: Average Reward per Agent: -21.330
+Episode 31200: Average Reward per Agent: -24.429
+Episode 31300: Average Reward per Agent: -16.198
+Episode 31400: Average Reward per Agent: -25.007
+Episode 31500: Average Reward per Agent: -25.390
+Episode 31600: Average Reward per Agent: -17.789
+Episode 31700: Average Reward per Agent: -21.901
+Episode 31800: Average Reward per Agent: -13.323
+Episode 31900: Average Reward per Agent: -13.826
+Episode 32000: Average Reward per Agent: -20.885
+
+--- Models Saved at Episode 32000 ---
+
+Episode 32100: Average Reward per Agent: -21.672
+Episode 32200: Average Reward per Agent: -24.755
+Episode 32300: Average Reward per Agent: -21.393
+Episode 32400: Average Reward per Agent: -30.739
+Episode 32500: Average Reward per Agent: -21.315
+Episode 32600: Average Reward per Agent: -19.577
+Episode 32700: Average Reward per Agent: -34.426
+Episode 32800: Average Reward per Agent: -20.795
+Episode 32900: Average Reward per Agent: -24.574
+Episode 33000: Average Reward per Agent: -16.551
+
+--- Models Saved at Episode 33000 ---
+
+Episode 33100: Average Reward per Agent: -26.747
+Episode 33200: Average Reward per Agent: -24.314
+Episode 33300: Average Reward per Agent: -29.466
+Episode 33400: Average Reward per Agent: -18.850
+Episode 33500: Average Reward per Agent: -20.004
+Episode 33600: Average Reward per Agent: -24.665
+Episode 33700: Average Reward per Agent: -18.526
+Episode 33800: Average Reward per Agent: -27.190
+Episode 33900: Average Reward per Agent: -13.067
+Episode 34000: Average Reward per Agent: -17.823
+
+--- Models Saved at Episode 34000 ---
+
+Episode 34100: Average Reward per Agent: -17.991
+Episode 34200: Average Reward per Agent: -12.829
+Episode 34300: Average Reward per Agent: -25.921
+Episode 34400: Average Reward per Agent: -25.852
+Episode 34500: Average Reward per Agent: -8.703
+Episode 34600: Average Reward per Agent: -22.402
+Episode 34700: Average Reward per Agent: -34.655
+Episode 34800: Average Reward per Agent: -16.167
+Episode 34900: Average Reward per Agent: -21.683
+Episode 35000: Average Reward per Agent: -13.293
+
+--- Models Saved at Episode 35000 ---
+
+Episode 35100: Average Reward per Agent: -30.797
+Episode 35200: Average Reward per Agent: -16.603
+Episode 35300: Average Reward per Agent: -24.467
+Episode 35400: Average Reward per Agent: -26.991
+Episode 35500: Average Reward per Agent: -29.584
+Episode 35600: Average Reward per Agent: -27.267
+Episode 35700: Average Reward per Agent: -27.804
+Episode 35800: Average Reward per Agent: -17.631
+Episode 35900: Average Reward per Agent: -17.650
+Episode 36000: Average Reward per Agent: -24.629
+
+--- Models Saved at Episode 36000 ---
+
+Episode 36100: Average Reward per Agent: -12.324
+Episode 36200: Average Reward per Agent: -15.851
+Episode 36300: Average Reward per Agent: -21.540
+Episode 36400: Average Reward per Agent: -27.316
+Episode 36500: Average Reward per Agent: -27.951
+Episode 36600: Average Reward per Agent: -34.973
+Episode 36700: Average Reward per Agent: -18.959
+Episode 36800: Average Reward per Agent: -20.681
+Episode 36900: Average Reward per Agent: -18.720
+Episode 37000: Average Reward per Agent: -23.725
+
+--- Models Saved at Episode 37000 ---
+
+Episode 37100: Average Reward per Agent: -30.809
+Episode 37200: Average Reward per Agent: -11.487
+Episode 37300: Average Reward per Agent: -26.878
+Episode 37400: Average Reward per Agent: -16.901
+Episode 37500: Average Reward per Agent: -27.713
+Episode 37600: Average Reward per Agent: -24.065
+Episode 37700: Average Reward per Agent: -19.907
+Episode 37800: Average Reward per Agent: -22.445
+Episode 37900: Average Reward per Agent: -21.270
+Episode 38000: Average Reward per Agent: -25.976
+
+--- Models Saved at Episode 38000 ---
+
+Episode 38100: Average Reward per Agent: -25.370
+Episode 38200: Average Reward per Agent: -26.819
+Episode 38300: Average Reward per Agent: -32.834
+Episode 38400: Average Reward per Agent: -25.814
+Episode 38500: Average Reward per Agent: -15.033
+Episode 38600: Average Reward per Agent: -28.966
+Episode 38700: Average Reward per Agent: -24.405
+Episode 38800: Average Reward per Agent: -20.683
+Episode 38900: Average Reward per Agent: -60.316
+Episode 39000: Average Reward per Agent: -37.205
+
+--- Models Saved at Episode 39000 ---
+
+Episode 39100: Average Reward per Agent: -57.084
+Episode 39200: Average Reward per Agent: -40.062
+Episode 39300: Average Reward per Agent: -38.807
+Episode 39400: Average Reward per Agent: -26.185
+Episode 39500: Average Reward per Agent: -48.210
+Episode 39600: Average Reward per Agent: -48.078
+Episode 39700: Average Reward per Agent: -69.715
+Episode 39800: Average Reward per Agent: -66.578
+Episode 39900: Average Reward per Agent: -36.766
+Episode 40000: Average Reward per Agent: -36.951
+
+--- Models Saved at Episode 40000 ---
+
+Episode 40100: Average Reward per Agent: -37.135
+Episode 40200: Average Reward per Agent: -38.869
+Episode 40300: Average Reward per Agent: -47.694
+Episode 40400: Average Reward per Agent: -24.555
+Episode 40500: Average Reward per Agent: -60.740
+Episode 40600: Average Reward per Agent: -39.353
+Episode 40700: Average Reward per Agent: -14.326
+Episode 40800: Average Reward per Agent: -25.358
+Episode 40900: Average Reward per Agent: -36.329
+Episode 41000: Average Reward per Agent: -18.685
+
+--- Models Saved at Episode 41000 ---
+
+Episode 41100: Average Reward per Agent: -36.800
+Episode 41200: Average Reward per Agent: -40.940
+Episode 41300: Average Reward per Agent: -77.225
+Episode 41400: Average Reward per Agent: -27.521
+Episode 41500: Average Reward per Agent: -32.136
+Episode 41600: Average Reward per Agent: -20.548
+Episode 41700: Average Reward per Agent: -52.308
+Episode 41800: Average Reward per Agent: -30.020
+Episode 41900: Average Reward per Agent: -42.861
+Episode 42000: Average Reward per Agent: -29.346
+
+--- Models Saved at Episode 42000 ---
+
+Episode 42100: Average Reward per Agent: -46.866
+Episode 42200: Average Reward per Agent: -42.556
+Episode 42300: Average Reward per Agent: -33.546
+Episode 42400: Average Reward per Agent: -21.500
+Episode 42500: Average Reward per Agent: -26.563
+Episode 42600: Average Reward per Agent: -15.381
+Episode 42700: Average Reward per Agent: -28.563
+Episode 42800: Average Reward per Agent: -27.662
+Episode 42900: Average Reward per Agent: -39.290
+Episode 43000: Average Reward per Agent: -18.963
+
+--- Models Saved at Episode 43000 ---
+
+Episode 43100: Average Reward per Agent: -33.778
+Episode 43200: Average Reward per Agent: -23.459
+Episode 43300: Average Reward per Agent: -26.875
+Episode 43400: Average Reward per Agent: -36.400
+Episode 43500: Average Reward per Agent: -42.217
+Episode 43600: Average Reward per Agent: -25.192
+Episode 43700: Average Reward per Agent: -28.192
+Episode 43800: Average Reward per Agent: -23.115
+Episode 43900: Average Reward per Agent: -41.367
+Episode 44000: Average Reward per Agent: -39.531
+
+--- Models Saved at Episode 44000 ---
+
+Episode 44100: Average Reward per Agent: -38.924
+Episode 44200: Average Reward per Agent: -32.139
+Episode 44300: Average Reward per Agent: -26.592
+Episode 44400: Average Reward per Agent: -33.723
+Episode 44500: Average Reward per Agent: -40.509
+Episode 44600: Average Reward per Agent: -30.274
+Episode 44700: Average Reward per Agent: -25.291
+Episode 44800: Average Reward per Agent: -31.158
+Episode 44900: Average Reward per Agent: -22.188
+Episode 45000: Average Reward per Agent: -42.986
+
+--- Models Saved at Episode 45000 ---
+
+Episode 45100: Average Reward per Agent: -29.136
+Episode 45200: Average Reward per Agent: -25.503
+Episode 45300: Average Reward per Agent: -29.238
+Episode 45400: Average Reward per Agent: -26.363
+Episode 45500: Average Reward per Agent: -21.109
+Episode 45600: Average Reward per Agent: -26.099
+Episode 45700: Average Reward per Agent: -25.442
+Episode 45800: Average Reward per Agent: -44.510
+Episode 45900: Average Reward per Agent: -38.140
+Episode 46000: Average Reward per Agent: -28.378
+
+--- Models Saved at Episode 46000 ---
+
+Episode 46100: Average Reward per Agent: -30.739
+Episode 46200: Average Reward per Agent: -23.323
+Episode 46300: Average Reward per Agent: -43.197
+Episode 46400: Average Reward per Agent: -22.338
+Episode 46500: Average Reward per Agent: -39.872
+Episode 46600: Average Reward per Agent: -24.263
+Episode 46700: Average Reward per Agent: -37.923
+Episode 46800: Average Reward per Agent: -29.672
+Episode 46900: Average Reward per Agent: -26.086
+Episode 47000: Average Reward per Agent: -32.134
+
+--- Models Saved at Episode 47000 ---
+
+Episode 47100: Average Reward per Agent: -24.802
+Episode 47200: Average Reward per Agent: -25.629
+Episode 47300: Average Reward per Agent: -25.737
+Episode 47400: Average Reward per Agent: -35.669
+Episode 47500: Average Reward per Agent: -29.369
+Episode 47600: Average Reward per Agent: -38.121
+Episode 47700: Average Reward per Agent: -39.282
+Episode 47800: Average Reward per Agent: -30.046
+Episode 47900: Average Reward per Agent: -34.262
+Episode 48000: Average Reward per Agent: -29.545
+
+--- Models Saved at Episode 48000 ---
+
+Episode 48100: Average Reward per Agent: -27.147
+Episode 48200: Average Reward per Agent: -29.502
+Episode 48300: Average Reward per Agent: -33.376
+Episode 48400: Average Reward per Agent: -32.666
+Episode 48500: Average Reward per Agent: -17.144
+Episode 48600: Average Reward per Agent: -31.428
+Episode 48700: Average Reward per Agent: -35.614
+Episode 48800: Average Reward per Agent: -36.724
+Episode 48900: Average Reward per Agent: -22.784
+Episode 49000: Average Reward per Agent: -34.835
+
+--- Models Saved at Episode 49000 ---
+
+Episode 49100: Average Reward per Agent: -21.748
+Episode 49200: Average Reward per Agent: -41.137
+Episode 49300: Average Reward per Agent: -38.080
+Episode 49400: Average Reward per Agent: -35.411
+Episode 49500: Average Reward per Agent: -29.818
+Episode 49600: Average Reward per Agent: -28.288
+Episode 49700: Average Reward per Agent: -48.749
+Episode 49800: Average Reward per Agent: -16.205
+Episode 49900: Average Reward per Agent: -41.316
+
+--- Training Completed ---
+
