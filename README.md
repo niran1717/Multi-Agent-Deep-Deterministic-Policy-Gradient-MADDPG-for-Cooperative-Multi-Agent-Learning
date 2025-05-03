@@ -69,9 +69,7 @@ python main.py
 The folder `trajectory/` contains `.npy` files that store per-agent positional data. These are used for plotting training and evaluation movement patterns.
 
 
-## 🔗 GitHub Info
-
-**Repository Name:** `maddpg_project`  
+## 🔗 GitHub Info 
 **Author:** `Niranjan Paramasivan`   
 **Status:** 📈 Actively maintained
 
