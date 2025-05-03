@@ -40,8 +40,8 @@ maddpg_project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/niran1717/Multi-Agent-Deep-Deterministic-Policy-Gradient-MADDPG-for-Cooperative-Multi-Agent-Learning.git
+cd Multi-Agent-Deep-Deterministic-Policy-Gradient-MADDPG-for-Cooperative-Multi-Agent-Learning
 ```
 
 ### 2. Install Dependencies
@@ -64,31 +64,15 @@ python main.py
 
 > Training logs and model checkpoints will be saved in `train_logs/` and `saved_models/`.
 
-## 📊 Plotting & Visualization
-
-You can use the provided plots in the `plots/` folder or generate your own using:
-
-```bash
-python maddpg/utils.py
-```
-
 ## 📦 Trajectory Data
 
 The folder `trajectory/` contains `.npy` files that store per-agent positional data. These are used for plotting training and evaluation movement patterns.
 
-## 📡 SLURM (HPC) Training
-
-If using a cluster like TACC with SLURM:
-
-```bash
-sbatch train_logs/maddpg.slurm
-```
 
 ## 🔗 GitHub Info
 
 **Repository Name:** `maddpg_project`  
-**Author:** `Your Name`  
-**License:** MIT  
+**Author:** `Niranjan Paramasivan`   
 **Status:** 📈 Actively maintained
 
 ## ✨ Credits
